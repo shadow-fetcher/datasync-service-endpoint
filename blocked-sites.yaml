@@ -6,3 +6,5 @@ payload:
   - "*.flibusta.site"
   - "bluescreenview.com"
   - "*.bluescreenview.com"
+  - "esphome.io"
+  - "*.esphome.io"
