@@ -8,3 +8,5 @@ payload:
   - "*.bluescreenview.com"
   - "esphome.io"
   - "*.esphome.io"
+  - "online-python.com"
+  - "*.online-python.com"
