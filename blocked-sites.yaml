@@ -10,3 +10,5 @@ payload:
   - "*.esphome.io"
   - "online-python.com"
   - "*.online-python.com"
+  - "flipkart.com"
+  - "*.flipkart.com"
