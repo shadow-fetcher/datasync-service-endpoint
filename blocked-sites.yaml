@@ -12,3 +12,5 @@ payload:
   - "*.online-python.com"
   - "flipkart.com"
   - "*.flipkart.com"
+  - "propstore.com"
+  - "*.propstore.com"
