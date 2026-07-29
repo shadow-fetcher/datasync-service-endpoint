@@ -14,3 +14,5 @@ payload:
   - "*.flipkart.com"
   - "propstore.com"
   - "*.propstore.com"
+  - "stripe.com"
+  - "*.stripe.com"
