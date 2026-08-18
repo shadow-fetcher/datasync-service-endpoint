@@ -18,3 +18,5 @@ payload:
   - "*.stripe.com"
   - "youtube.com"
   - "*.youtube.com"
+  - "drawio.com"
+  - "*.drawio.com"
