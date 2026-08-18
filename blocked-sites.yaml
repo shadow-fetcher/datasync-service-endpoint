@@ -16,3 +16,5 @@ payload:
   - "*.propstore.com"
   - "stripe.com"
   - "*.stripe.com"
+  - "youtube.com"
+  - "*.youtube.com"
