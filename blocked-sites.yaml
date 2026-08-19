@@ -20,3 +20,5 @@ payload:
   - "*.youtube.com"
   - "drawio.com"
   - "*.drawio.com"
+  - "createmod.com"
+  - "*.createmod.com"
