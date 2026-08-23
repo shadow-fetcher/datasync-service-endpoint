@@ -26,3 +26,5 @@ payload:
   - "*.fliphtml5.com"
   - "tiangolo.com"
   - "*.tiangolo.com"
+  - "ollama.com"
+  - "*.ollama.com"
