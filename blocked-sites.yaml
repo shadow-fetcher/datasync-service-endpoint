@@ -24,3 +24,5 @@ payload:
   - "*.createmod.com"
   - "fliphtml5.com"
   - "*.fliphtml5.com"
+  - "tiangolo.com"
+  - "*.tiangolo.com"
