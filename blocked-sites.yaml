@@ -28,3 +28,5 @@ payload:
   - "*.tiangolo.com"
   - "ollama.com"
   - "*.ollama.com"
+  - "lizardbyte.dev"
+  - "*.lizardbyte.dev"
