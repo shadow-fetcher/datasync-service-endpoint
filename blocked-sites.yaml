@@ -30,3 +30,5 @@ payload:
   - "*.ollama.com"
   - "lizardbyte.dev"
   - "*.lizardbyte.dev"
+  - "cloudconvert.com"
+  - "*.cloudconvert.com"
