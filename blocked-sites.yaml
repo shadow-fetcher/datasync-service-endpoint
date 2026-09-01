@@ -36,3 +36,5 @@ payload:
   - "*.jumpshare.com"
   - "dia-tts.com"
   - "*.dia-tts.com"
+  - "editor.audio"
+  - "*.editor.audio"
