@@ -42,3 +42,5 @@ payload:
   - "*.audiomass.co"
   - "bartendersoftware.com"
   - "*.bartendersoftware.com"
+  - "remove.music"
+  - "*.remove.music"
