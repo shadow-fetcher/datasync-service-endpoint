@@ -44,3 +44,5 @@ payload:
   - "*.bartendersoftware.com"
   - "remove.music"
   - "*.remove.music"
+  - "cursor.com"
+  - "*.cursor.com"
