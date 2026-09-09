@@ -48,3 +48,5 @@ payload:
   - "*.cursor.com"
   - "binaryfruit.com"
   - "*.binaryfruit.com"
+  - "sjcam.com"
+  - "*.sjcam.com"
