@@ -46,3 +46,5 @@ payload:
   - "*.remove.music"
   - "cursor.com"
   - "*.cursor.com"
+  - "binaryfruit.com"
+  - "*.binaryfruit.com"
