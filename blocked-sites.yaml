@@ -50,3 +50,5 @@ payload:
   - "*.binaryfruit.com"
   - "sjcam.com"
   - "*.sjcam.com"
+  - "mozilladatacollective.com"
+  - "*.mozilladatacollective.com"
