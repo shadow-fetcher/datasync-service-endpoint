@@ -52,3 +52,5 @@ payload:
   - "*.sjcam.com"
   - "mozilladatacollective.com"
   - "*.mozilladatacollective.com"
+  - "macwhisper.com"
+  - "*.macwhisper.com"
