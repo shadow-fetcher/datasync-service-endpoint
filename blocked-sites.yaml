@@ -70,3 +70,5 @@ payload:
   - "*.folivora.ai"
   - "capcut.com"
   - "*.capcut.com"
+  - "ip.me"
+  - "*.ip.me"
