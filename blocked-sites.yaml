@@ -74,3 +74,5 @@ payload:
   - "*.ip.me"
   - "webshare.io"
   - "*.webshare.io"
+  - "sourceforge.io"
+  - "*.sourceforge.io"
