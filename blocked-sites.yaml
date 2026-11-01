@@ -76,3 +76,5 @@ payload:
   - "*.webshare.io"
   - "sourceforge.io"
   - "*.sourceforge.io"
+  - "sourceforge.net"
+  - "*.sourceforge.net"
