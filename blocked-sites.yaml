@@ -80,3 +80,5 @@ payload:
   - "*.sourceforge.net"
   - "macx.ws"
   - "*.macx.ws"
+  - "nitroflare.com"
+  - "*.nitroflare.com"
