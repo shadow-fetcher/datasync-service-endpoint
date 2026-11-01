@@ -78,3 +78,5 @@ payload:
   - "*.sourceforge.io"
   - "sourceforge.net"
   - "*.sourceforge.net"
+  - "macx.ws"
+  - "*.macx.ws"
