@@ -82,3 +82,5 @@ payload:
   - "*.macx.ws"
   - "nitroflare.com"
   - "*.nitroflare.com"
+  - "flameshot.org"
+  - "*.flameshot.org"
