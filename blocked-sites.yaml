@@ -84,3 +84,5 @@ payload:
   - "*.nitroflare.com"
   - "flameshot.org"
   - "*.flameshot.org"
+  - "dogesms.com"
+  - "*.dogesms.com"
