@@ -86,3 +86,5 @@ payload:
   - "*.flameshot.org"
   - "dogesms.com"
   - "*.dogesms.com"
+  - "bincheck.io"
+  - "*.bincheck.io"
