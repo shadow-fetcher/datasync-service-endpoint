@@ -88,3 +88,5 @@ payload:
   - "*.dogesms.com"
   - "bincheck.io"
   - "*.bincheck.io"
+  - "battle.net"
+  - "*.battle.net"
